@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+   <manifest>
+
+     <remote name="crt" 
+             fetch="https://github.com/crewrktablets/"
+             review="https://github.com/crewrktablets/"
+             remote="cm-10.1" />
+
+     <project path="device/rockchip/rk29board" name="android_device_rockchip_rk29board" remote="crt"/>
+
+</manifest>

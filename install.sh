@@ -9,5 +9,5 @@ then
 fi
 if [ ! -L ".repo/local_manifests/crewrktablets_manifest.xml" ];
 then 
-   ln -s ../../local_manifest.xml .repo/local_manifests/crewrktablets_manifest.xml
+   ln -s ../../crewrktablets_manifest.xml .repo/local_manifests/crewrktablets_manifest.xml
 fi

@@ -7,5 +7,7 @@
              remote="cm-10.1" />
 
      <project path="device/rockchip/rk29board" name="android_device_rockchip_rk29board" remote="crt"/>
+     <project path="device/rockchip/rk30board" name="android_device_rockchip_rk30board" remote="crt"/>
+     <project path="device/rockchip/rk31board" name="android_device_rockchip_rk31board" remote="crt"/>
 
 </manifest>

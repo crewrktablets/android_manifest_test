@@ -7,7 +7,7 @@
              remote="cm-10.1" />
 
      <!-- remove projects dosn't use -->
-     <remove-project name="android/device/ti/panda"/>
+     <remove-project name="CyanogenMod/android_device_ti_panda"/>
 
      <!-- add crewrktablets repositories -->
      <project path="device/rockchip/rk29board" name="android_device_rockchip_rk29board" remote="crt"/>
